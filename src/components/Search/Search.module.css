@@ -1,0 +1,23 @@
+.input {
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  border-radius: 10px;
+  border: 1px solid #efefef;
+  background: #fcfcfd;
+  padding: 16px 30px 16px 44px;
+  min-width: 256px;
+}
+.input:focus {
+  outline: 2px solid #efefef;
+}
+
+.input-wrapper {
+  position: relative;
+}
+.icon {
+  position: absolute;
+  left: 17px;
+  top: 19px;
+}
